@@ -1,0 +1,45 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+ font: 20px Arial;
+}
+
+.navbar {
+    background-color: #00695C;
+    color: whitesmoke;
+    
+}
+
+.quem-somos{
+    background-color: #0277BD;
+    color: white;
+}
+
+.margin{
+   padding-bottom: 50px;
+   padding-top: 10px;
+}
+
+.parceiros{
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.servicos{
+    background-color: yellow;
+}
+
+.servicos h3{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-style: unset;
+   font-size: 30px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
